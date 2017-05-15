@@ -38,4 +38,5 @@ public class Classroom{
       seats[i] = null;
     }
   }
+
 }

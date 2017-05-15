@@ -16,7 +16,6 @@ public class ClassroomTest{
     assertEquals('a', classroom.getName());
   }
 
-
   @Test
   public void seatsStartEmpty() {
     assertEquals(0, classroom.seatCount());
